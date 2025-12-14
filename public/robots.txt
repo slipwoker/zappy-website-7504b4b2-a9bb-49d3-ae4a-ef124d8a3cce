@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://go-rapido-7504b4b2.zappy5.app/sitemap.xml
